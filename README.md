@@ -3,7 +3,9 @@
 
 # 🎉 Congratulations TPSKaizen! 🎉
 
-<img src="https://octodex.github.com/images/welcometocat.png" height="200px" />
+Hello
+
+Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
 
 ### 🌟 You've successfully completed the exercise! 🌟
 
