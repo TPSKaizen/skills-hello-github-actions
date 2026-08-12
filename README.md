@@ -3,7 +3,7 @@
 
 # 🎉 Congratulations TPSKaizen! 🎉
 
-Hello
+Hello Brian
 
 Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
 
